@@ -1,0 +1,14 @@
+[2025-06-17 12:36:52] Filled missing name at rows [11]
+[2025-06-17 12:36:52] Filled missing email at rows [3, 11]
+[2025-06-17 12:36:52] Filled missing country at rows [11]
+[2025-06-17 12:36:52] Filled missing age at rows [8]
+[2025-06-17 12:36:52] Marked 6 invalid emails for enrichment
+[2025-06-17 12:36:52] Removed 4 duplicate rows
+[2025-06-17 12:36:52] Standardized country names
+[2025-06-17 12:37:25] Filled missing name at rows [11]
+[2025-06-17 12:37:25] Filled missing email at rows [3, 11]
+[2025-06-17 12:37:25] Filled missing country at rows [11]
+[2025-06-17 12:37:25] Filled missing age at rows [8]
+[2025-06-17 12:37:25] Marked 6 invalid emails for enrichment
+[2025-06-17 12:37:25] Removed 4 duplicate rows
+[2025-06-17 12:37:25] Standardized country names

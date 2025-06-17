@@ -83,3 +83,11 @@ text
 3. **Troubleshooting** - Common issues with solutions
 4. **Dual Interface Docs** - Both CLI and web instructions
 5. **Modern Formatting** - Better readability with code blocks
+
+## Demo Videos
+
+### CLI Agent Working
+[![CLI Agent Demo](https://img.youtube.com/vi/Evta7gejn8g/0.jpg)](https://www.youtube.com/watch?v=Evta7gejn8g)
+
+### Web-Based Agent
+[![Web Agent Demo](https://img.youtube.com/vi/RdJo8ayw-j4/0.jpg)](https://www.youtube.com/watch?v=RdJo8ayw-j4)

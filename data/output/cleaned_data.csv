@@ -1,0 +1,11 @@
+name,email,country,age,email_status,segment
+John Doe,john.doe@example.com,USA,30.0,,adult
+Jane Smith,jane.smith@gmail.com,United Kingdom,25.0,,young_adult
+Robert Johnson,robert.johnson@example.com,Canada,40.0,generated,adult
+Alice Brown,alice.brown@example.com,Australia,35.0,generated,adult
+Mike Davis,mike.davis@example.com,USA,28.0,generated,young_adult
+Sarah Wilson,sarah.wilson@example.com,UK,32.0,,adult
+David Lee,david.lee@domain.com,,45.0,,adult
+Emily Chen,emily.chen@example.com,China,32.0,generated,adult
+Frank White,frank.white@example.com,United States,50.0,,senior
+Grace Hopper,grace.hopper@example.com,USA,60.0,generated,senior
