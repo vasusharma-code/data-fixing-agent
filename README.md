@@ -87,7 +87,7 @@ text
 ## Demo Videos
 
 ### CLI Agent Working
-[![CLI Agent Demo](https://img.youtube.com/vi/Evta7gejn8g/0.jpg)](https://www.youtube.com/watch?v=Evta7gejn8g)
+https://www.youtube.com/watch?v=Evta7gejn8g
 
 ### Web-Based Agent
-[![Web Agent Demo](https://img.youtube.com/vi/RdJo8ayw-j4/0.jpg)](https://www.youtube.com/watch?v=RdJo8ayw-j4)
+https://www.youtube.com/watch?v=RdJo8ayw-j4
