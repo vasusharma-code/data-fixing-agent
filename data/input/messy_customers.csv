@@ -1,0 +1,13 @@
+name,email,country,age
+John Doe,john.doe@example.com,USA,30
+Jane Smith,jane.smith@gmail.com,United Kingdom,25
+Robert Johnson,robert,Canada,40
+Alice Brown,,Australia,35
+Mike Davis,mike.davis@test,US,28
+Sarah Wilson,sarah.wilson@example.com,UK,32
+John Doe,john.doe@example.com,USA,30
+David Lee,david.lee@domain.com,CA,45
+Emily Chen,emily.chen@test,China,
+Frank White,frank.white@example.com,United States,50
+Grace Hopper,grace.hopper@test,USA,60
+,,,22
